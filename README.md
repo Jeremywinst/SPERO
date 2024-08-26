@@ -1,5 +1,10 @@
 ## SPERO
 ## Introduction
+<p align="center">
+  <img src="/figures/final_robot.jpg" style="height:350px;"/>
+    <img src="/figures/internal.jpg" style="width:250px;"/>
+</p>
+
 This is the repository of the Support for Pandemic and Epidemic Robot (SPERO), which was created by Petra Christian University in reaction to the COVID-19 Pandemic. SPERO is an autonomous robot designed to deliver food and medicine to COVID-19 patients in hospitals and disinfect rooms in hospitals, offices, and warehouses using UV-C technology. The robot operates on Raspberry Pi 4, employing the Robot Operating System (ROS) framework and utilizing MQTT protocols for the sensor's data transmission. Additionally, it features a user-friendly interface for seamless operation.
 
 It's important to note that this repository solely emphasizes the room disinfection functionality as it was separately developed by a different team.
